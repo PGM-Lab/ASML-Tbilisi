@@ -9,7 +9,7 @@ Repository for the course PPLs with DNNs at Autumn school on Machine Learning, T
 
 ## Notebooks
 * **Day 1 Notebooks**:
-  - [students_PPLs_Intro](https://colab.research.google.com/github.com/PGM-Lab/ASML-Tbilisi/blob/master/Day1/students_PPLs_Intro.ipynb)
+  - [students_PPLs_Intro](https://colab.research.google.com/github/PGM-Lab/ASML-Tbilisi/blob/master/Day1/students_PPLs_Intro.ipynb)
 
 * **Day 1 Notebooks**:
   - [students_Bayesian_regressio]()
